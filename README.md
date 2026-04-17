@@ -91,15 +91,20 @@ Validated on Colab G4 with NVIDIA RTX Pro 6000 Blackwell (96 GB VRAM). Minimum v
 
 ## Citation
 
+If you use this work, please cite:
+
 ```bibtex
 @article{abuayyash2026threephase,
-  title={Three-Phase Transformer},
-  author={Abu Ayyash, Mohammad R.},
-  journal={Brains Build Research Technical Report},
-  year={2026},
-  url={https://github.com/achelousace/three-phase-transformer}
+  title   = {Three-Phase Transformer},
+  author  = {Abu Ayyash, Mohammad R.},
+  journal = {arXiv preprint arXiv:2604.14430},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2604.14430}
 }
 ```
+
+Paper: https://arxiv.org/abs/2604.14430
+Code: https://github.com/achelousace/three-phase-transformer
 
 ## License
 
